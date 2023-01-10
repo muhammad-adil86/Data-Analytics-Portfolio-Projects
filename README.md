@@ -1,4 +1,6 @@
-[Logo](<img width="275" alt="image" src="https://user-images.githubusercontent.com/71008875/211677847-ea06f85f-d6d4-45aa-9aff-726d17050ac3.png">)
+
+![Logo](https://user-images.githubusercontent.com/71008875/211677847-ea06f85f-d6d4-45aa-9aff-726d17050ac3.png)
+
 
 # Data Analytics Portfolio
 
