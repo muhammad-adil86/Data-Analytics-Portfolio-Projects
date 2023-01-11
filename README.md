@@ -2,7 +2,7 @@
 
 # Data Analytics Portfolio [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muhammad-adil86.github.io/muhammad-adil.github.io/)
 
-This repository contains my personal projects related to SQL (self-joins, subqueries, window functions, CTEs, Views), Python (NumPy, pandas, scikit-learn, matplotlib , seaborn), Excel, Tableau, Power BI, Cognos Analytics, and other data analytics tools.
+This repository contains my personal projects related to SQL (self-joins, subqueries, window functions, CTEs, Views), Python (NumPy, pandas, scikit-learn, matplotlib ,seaborn), Excel, Tableau, Power BI, Cognos Analytics, and other data analytics tools.
 
 The purpose of this repository is mainly to showcase my skills and experience as a data analyst, and to share my projects with others who may be interested in learning or using these tools. These projects cover a variety of topics including data cleaning, standardization, and visualization in order to uncover patterns/insights, draw meaningful conclusions, and clearly communicate critical findings. 
 
