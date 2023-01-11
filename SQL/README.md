@@ -1,3 +1,3 @@
-# SQL Projects 💾
+# SQL Projects 💾🛢️
 
 This portfolio section contains all the SQL based projects.
