@@ -1,6 +1,6 @@
 ![Logo](https://user-images.githubusercontent.com/71008875/211677847-ea06f85f-d6d4-45aa-9aff-726d17050ac3.png)
 
-# Data Analytics Portfolio
+# Data Analytics Portfolio [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muhammad-adil86.github.io/muhammad-adil.github.io/)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadadil86/)
 
 This repository contains my personal projects related to SQL (self-joins, subqueries, window functions, CTEs, Views), Python (NumPy, pandas, scikit-learn, matplotlib , seaborn), Excel, Tableau, Power BI, Cognos Analytics, and other data analytics tools.
 
