@@ -1,4 +1,4 @@
-# Preparing Property Sales Data
+# Preparing Property Sales Data 🏡📈📉
 
 This project covers the SQL queries designed to clean and standardize data from a property sales dataset of Nashville and prepare it for further analysis. The key objective of this project is to improve data integrity and optimize data for analysis by dealing with the issues such as:
 
