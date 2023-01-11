@@ -1,4 +1,4 @@
-# COVID-19 Data Exploration
+# COVID-19 Data Exploration 😷🦠🏥
 
 This project showcases my skills in data exploration and cleaning using SQL. It utilized variety of SQL commands such as joins, CTEs, temp tables, window functions, aggregate functions, creating views, and converting data types to analyze and gain insights from the COVID-19 dataset. 
 
