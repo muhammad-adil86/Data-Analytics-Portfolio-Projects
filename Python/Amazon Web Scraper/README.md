@@ -4,11 +4,8 @@
 This is an introductory project on web scraping and how to automate the price monitoring of any product on Amazon or any other e-commerce website to take advantage of holiday sales.
 
 ## Libraries Used
-The project uses several libraries including: pandas, numpy, seaborn, matplotlib, and figure.
 
-## Data Cleaning
-
-The following libraries are imported in the project:
+The following libraries were imported in the project:
 
 - **beautifulsoup4** to parse the HTML content
 - **requests** to request web page
@@ -20,7 +17,7 @@ The following libraries are imported in the project:
 
 ## Web Scraping
 
-The following steps are performed for web scraping:
+The following steps were performed for web scraping:
 
     1. Connect to the website using the **requests** library
     2. Use **beautifulsoup** to parse the HTML content
@@ -30,7 +27,7 @@ The following steps are performed for web scraping:
 
 ## Storing Scraped Data
 
-The following steps are performed to store the scraped data:
+The following steps were performed to store the scraped data:
 
     1. Create a CSV file with headers
     2. Write the scraped data to the CSV file
