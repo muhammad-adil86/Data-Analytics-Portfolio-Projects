@@ -39,7 +39,7 @@ Once the data is pulled, it was standardized and cleaned so that it is ready for
 
 ## Data Visualization
 
-A catplot was used to visualize the crypto coin trend over different time frame, while a lineplot was used to show the trend of a specific crypto coin (in this case Bitcoin) over time.
+A catplot was used to visualize the crypto coin trend over different time frame, while a lineplot was used to show the trend of a specific crypto coin (in this case Bitcoin ₿) over time.
 
 ### Note
 The above summary is a brief overview of the project, for more in-depth understanding refer to the Jupyter notebook.
