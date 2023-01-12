@@ -1,5 +1,5 @@
 
-# Movie Data Correlations 🎬🎥📽️🍿
+# Movie Data Correlations 🎬📽️🍿
 
 ## Project Overview
 In this project, we aim to determine the correlations between the attributes of each movie using Python. It provides an overview of how to use Python to load, clean, and visualize movie data sourced from [KAGGLE](https://www.kaggle.com/datasets/danielgrijalvas/movies), where the data was scraped from IMDb. It also provides examples of how to group and order the data, and create different types of plots to visualize the data. The data includes several attributes of movies such as:
