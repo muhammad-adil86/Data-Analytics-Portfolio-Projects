@@ -15,8 +15,8 @@ Data cleaning and preparation were done to make sure that data is ready for anal
 ## Dashboards
 The project includes a dashboard to explore the data and answer questions about the rental market in Seattle, by covering:
 
-- Average Rental Price per Bedroom: An overview of the average rental price per bedroom in Seattle in form of a bar chart
-- Rental Prices by Zip Code: In-depth look at rental prices by zip code, including a map that shows rental prices by location/zip code and a bar chart that shows rental prices by zip code.
+- Average Rental Price per Bedroom: An overview of the average rental price per bedroom in Seattle in form of a column chart
+- Rental Prices by Zip Code: In-depth look at rental prices by zip code, including a map that shows rental prices by location/zip code and a column chart that shows rental prices by zip code.
 - Revenue Trends over Time: Analyzing revenue patterns over time through a line graph that illustrates the revenue trends by month. It can also be used to identify the busiest times of year for rentals in Seattle and how that fluctuates over time.
 
 ## Conclusion
