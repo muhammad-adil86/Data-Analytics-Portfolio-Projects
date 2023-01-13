@@ -33,6 +33,3 @@ There are a number of other insights that can be gleaned from this Airbnb datase
 - Analyzing the impact of external factors on the rental market (e.g. events, weather, etc.)
 - Identifying which amenities or features are the most important to guests, and how they vary by location, property type and price.
 
-### Note
-The above summary is a brief overview of the project, for more in-depth understanding refer to the Jupyter notebook.
-
