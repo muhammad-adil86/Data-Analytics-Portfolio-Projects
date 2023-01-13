@@ -6,7 +6,7 @@ This project provides an analysis of the AirBnB rental market in Seattle in 2016
 
 ## Data Source
 
-The data used in this project was obtained from [KAGGLE](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset), which contains three dataset namely **Calendar**, **Listing**, and **Reviews**. The data includes information on listings such as location, number of bedrooms, and rental price.
+The data used in this project was obtained from [KAGGLE](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset) by Alex Freberg, which contains three dataset namely **Calendar**, **Listing**, and **Reviews**. The data includes information on listings such as location, number of bedrooms, and rental price.
 
 ## Data Cleaning and Preparation
 
@@ -35,8 +35,4 @@ There are a number of other insights that can be gleaned from this Airbnb datase
 
 ### Note
 The above summary is a brief overview of the project, for more in-depth understanding refer to the Jupyter notebook.
-
-### Special Thanks
-
-I would like to extend a huge thank you to [Alex](https://github.com/AlexTheAnalyst/PortfolioProjects) for this project. For those who want to learn more about the project, you can check out the original video [link](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&ab_channel=AlexTheAnalyst). Thank you, Alex!
 
