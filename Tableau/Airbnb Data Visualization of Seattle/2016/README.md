@@ -23,7 +23,7 @@ The project includes a dashboard to explore the data and answer questions about 
 
 With interactive dashboards and visualizations, this project empowers easy exploration of the Airbnb dataset and draw insights on rental housing market in Seattle. By gaining a thorough understanding of the market and identifying the most profitable areas, investors can make informed decisions about where to invest in a house for short-term rentals. 
 
-## Additional Insights
+### Additional Insights
 
 There are a number of other insights that can be gleaned from this Airbnb dataset, such as
 
