@@ -16,10 +16,17 @@ The following libraries are imported in the project:
 
 ## Step-by-Step ETL Pipeline
 
-    1. Extract: The pipeline starts by extracting data from the CoinMarketCap API using the **requests** library. The data is returned in a JSON format, which is then passed to the next stage of the pipeline.
-    2. Transform: In this stage, the data is transformed by cleaning and normalizing it using the **pandas** library. The data is grouped by crypto coin name and then the mean value of percent change for different time periods is calculated. The data is then rearranged into a tabular ormat and the column names are modified for better readability.
-    3. Load: In this stage, the transformed data is loaded into a CSV file using the **pandas** library. The pipeline also checks if the file already exists and if it does, it will append new data to the existing file.
-    4. API Runner: The API runner is a separate function that repeatedly runs the ETL pipeline at regular intervals. This allows for the collection of new data at regular intervals and the data can be used to track the market trends over time.
+### 1. Extract
+The pipeline starts by extracting data from the CoinMarketCap API using the **requests** library. The data is returned in a JSON format, which is then passed to the next stage of the pipeline.
+
+### 2. Transform
+In this stage, the data is transformed by cleaning and normalizing it using the **pandas** library. The data is grouped by crypto coin name and then the mean value of percent change for different time periods is calculated. The data is then rearranged into a tabular ormat and the column names are modified for better readability.
+
+### 3. Load
+In this stage, the transformed data is loaded into a CSV file using the **pandas** library. The pipeline also checks if the file already exists and if it does, it will append new data to the existing file.
+
+### 4. API Runner
+The API runner is a separate function that repeatedly runs the ETL pipeline at regular intervals. This allows for the collection of new data at regular intervals and the data can be used to track the market trends over time.
 
 ## Running the Pipeline
 To run the pipeline, simply execute the **run_etl()** function. The pipeline will extract data from the CoinMarketCap API, transform it by cleaning and normalizing, and load it into a CSV file. The pipeline will also run repeatedly to collect new data at regular intervals and the collected data is saved in a CSV file which can be used to perform further data analysis or visulaization.
