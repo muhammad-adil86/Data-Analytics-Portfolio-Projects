@@ -16,7 +16,7 @@ The following libraries are imported in the project:
 - **json** tto work with JSON data
 - **pandas** to create and manipulate dataframes
 - **datetime** to create a timestamp of when data is collected
-- **os** o check if file already exist or not before writing new data to it
+- **os** check if file already exist or not before writing new data to it
 
 ## Pull Data
 
