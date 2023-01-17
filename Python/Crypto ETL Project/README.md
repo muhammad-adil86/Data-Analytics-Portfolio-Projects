@@ -1,4 +1,4 @@
-# Crypto Coin Market Data Analysis using ETL Pipeline ₿💸💱🖇️
+# ETL Pipeline for Real-time Crypto Market Data Analysis ₿💸💱🖇️
 
 This project is an ETL (Extract, Transform, Load) pipeline that extracts data on crypto coin market from CoinMarketCap API, transforms the data by cleaning and normalizing it, and loads it into a CSV database. The data can then be used to create a bar chart or line graph visualization to show the consumption trends over time.
 
