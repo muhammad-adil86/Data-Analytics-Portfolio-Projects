@@ -1,7 +1,6 @@
 # COVID-19 Data Exploration 😷🦠🏥
 
-This project showcases my skills in data exploration and cleaning using SQL. It utilized variety of SQL commands such as joins, CTEs, temp tables, window functions, aggregate functions, creating views, and converting data types to analyze and gain insights from the COVID-19 dataset. The post-processed dataset is then further visulaized using Tableau dashboards in our other project - https://github.com/muhammad-adil86/Data-Analytics-Portfolio-Projects/tree/main/Tableau/COVID-19%20Data%20Visualizations.
-
+This project showcases my skills in data exploration and cleaning using SQL. It utilized variety of SQL commands such as joins, CTEs, temp tables, window functions, aggregate functions, creating views, and converting data types to analyze and gain insights from the COVID-19 dataset.
 ## Objectives
 
 - To understand the spread of COVID-19 cases and deaths by location and date
@@ -23,3 +22,5 @@ This project showcases my skills in data exploration and cleaning using SQL. It 
 ## Conclusion
 
 The data exploration carried out in this project provides insights on how the COVID-19 pandemic has affected different countries and continents and how the rate of vaccinations has affected the population. It allows us to see the relationships between different variables and gain a better understanding of the impact of the pandemic.
+
+The post-processed dataset is then further visulaized using Tableau dashboards in our other project - https://github.com/muhammad-adil86/Data-Analytics-Portfolio-Projects/tree/main/Tableau/COVID-19%20Data%20Visualizations.
