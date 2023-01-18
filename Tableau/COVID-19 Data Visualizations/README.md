@@ -14,7 +14,7 @@ The data is cleaned and pre-processed to combine the datasets and make it ready 
 
 ## Dashboards
 
-The project is divided into dashboards covering:
+The project is divided into Tableau dashboards covering:
 
 - Spread of COVID-19 Cases and Deaths by Location and Date: Analyze the progression of COVID-19 cases and deaths across countries and continents, and create forecasts for future death tolls
 - Relationship between Total Cases and Total Deaths: Explore the relationship between total COVID-19 cases and deaths, as well as the relationship with population and the variation in mortality rate among different countries and continents
@@ -24,5 +24,5 @@ The project is divided into dashboards covering:
 
 ## Conclusion
 
-Overall, this project offers a comprehensive view of the ongoing pandemic, providing a valuable tool for tracking the spread of COVID-19 and the progress of vaccination efforts. With data visualization and forecasting analysis, it will give a better understanding of the current and future situation of COVID-19.
+Overall, this project offers a comprehensive view of the ongoing pandemic, providing a valuable tool for tracking the spread of COVID-19 and the progress of vaccination efforts. With data visualization and forecasting analysis using Tableau, it will give a better understanding of the current and future situation of COVID-19.
 
