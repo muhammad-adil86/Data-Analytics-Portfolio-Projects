@@ -1,4 +1,4 @@
-# Tracking Global Warming: A Study of Greenhouse Gas Emissions 🏭🌍🌡️
+# Monitoring Greenhouse Gas Emissions: A Tableau Analysis 🏭🌍🌡️
 
 ## Introduction
 This Tableau project utilizes the annual greenhouse gas index (AGGI) database from the [National Oceanic and Atmospheric Administration (NOAA)](https://gml.noaa.gov/aggi/aggi.html) to identify the greenhouse gases (GHGs) responsible for global warming and track their trends over time. The dashboard focuses on the period between 1979 and 2021, providing a 23-year perspective on the changes in GHG emissions.
